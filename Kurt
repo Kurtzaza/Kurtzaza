@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Janangkaan</title>
+</head>
+
+<style>
+    body {background-color: powderblue;}
+    h1 {color:black;}
+    p {color :black;}
+  </style><body>
+ 
+<h1>Janangkaan</h1>
+<p>JAK</p>
+
+<video width="400" controls>
+    <source src="C:\Users\Watcharakorn\Videos\JAK - Black blood - 6B (Prod. Twontwon) Video 4K.mp4" type="video/mp4">
+    <source src="C:\Users\Watcharakorn\Videos\JAK - Black blood - 6B (Prod. Twontwon) Video 4K.mp4" type="video/ogg">
+    Your browser does not support HTML video.
+  </video>
+
+  <p>
+    Page Janangkaan
+    <a href="https://www.facebook.com/Janangkaan-102357462120181" target="_blank">Janangkaan</a>.
+    </p>
+  </body>
+</html>
